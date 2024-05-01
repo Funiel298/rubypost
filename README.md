@@ -1,24 +1,5 @@
-# README
+# Ruby on Rails Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+That is Daniel's (me) blog website where only admin can add, delete, and edit posts
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I tried it to do very great but still I believe i can do better, that is why I will continue working with this project
